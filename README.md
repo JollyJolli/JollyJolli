@@ -19,3 +19,15 @@ country: "Mexico",
 nickname: ["Jolly", "JollyJolli"]
 }
 ```
+
+Algunas cosas que he desarrollado:
+-
+> Discord Bots [**Demasiados**]
+
+> Le ayude a mi amigo a hacer un chat en internet. [Link Aqui](https://jochat.formen.link/)
+
+> Web en desarrollo [Link AquI!](https://www.formen.link/)
+ 
+ ----
+> **Gracias por leer,**
+ **[Jolly](https://discord.gg/pPbBmGGrxn)**.
