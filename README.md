@@ -7,7 +7,7 @@ About Me 😳
 - Me gusta el **Trap Latino**
 
 ### English
-- **15** Years old
+- **16** Years old
 - I'm **Mexican**
 - You can call me "**Jolly**"!
 - I like **Latin trap**
