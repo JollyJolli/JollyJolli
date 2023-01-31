@@ -7,14 +7,14 @@ About Me 😳
 - Me gusta el **Trap Latino**
 
 ### English
-- **16** Years old
+- **17** Years old
 - I'm **Mexican**
 - You can call me "**Jolly**"!
 - I like **Latin trap**
 
 ```js
 const AboutMe = {
-age: 15,
+age: 17,
 country: "Mexico",
 nickname: ["Jolly", "JollyJolli"]
 }
