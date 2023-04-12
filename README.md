@@ -31,3 +31,5 @@ Algunas cosas que he desarrollado:
  ----
 > **Gracias por leer,**
  **[Jolly](https://discord.gg/pPbBmGGrxn)**.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/166181471369953280)](https://discord.com/users/166181471369953280)
