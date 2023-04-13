@@ -1,5 +1,5 @@
 
-[![Discord Presence]([https://lanyard.cnrad.dev/api/166181471369953280](https://lanyard.cnrad.dev/api/166181471369953280?idleMessage=No%20hago%20nada%20ahora%20mismo.&borderRadius=40px))](https://discord.com/users/166181471369953280)
+[![Discord Presence]([https://lanyard.cnrad.dev/api/166181471369953280?idleMessage=No%20hago%20nada%20ahora%20mismo.&borderRadius=40px](https://discord.com/users/166181471369953280)
 
 About Me 😳
 ----
