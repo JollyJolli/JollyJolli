@@ -34,3 +34,9 @@ Algunas cosas que he desarrollado:
  ----
 > **Gracias por leer,**
  **[Jolly](https://discord.gg/pPbBmGGrxn)**.
+
+## Jolly's Stats
+  ![PGS](https://github-readme-stats.vercel.app/api?username=JollyJolli&theme=github_dark&show_icons=true)
+
+  ## Top Languages
+  ![TL](https://github-readme-stats.vercel.app/api/top-langs/?username=JollyJolli&layout=compact)
